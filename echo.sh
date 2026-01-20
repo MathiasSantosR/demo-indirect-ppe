@@ -1,6 +1,6 @@
 
-echo "GitHub Token: $GITHUB_TOKEN"
-echo "API Key: $API_KEY"
-echo "Database Password: $DB_PASSWORD"
+echo "GitHub Token: $GIT_CREDS"
+echo "Username: $USERNAME"
+echo "Password: $PASSWORD"
 
 
